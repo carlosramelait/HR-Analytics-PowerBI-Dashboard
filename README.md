@@ -1,6 +1,6 @@
 # 📊 HR Analytics Dashboard - Power BI
 
-![HR Analytics Dashboard](dashboard_preview.png .png)
+![HR Analytics Dashboard](dashboard_preview.png)
 
 ## 📌 Project Overview
 This project presents an interactive Human Resources dashboard built in **Power BI** to monitor workforce metrics, employee engagement, satisfaction levels, and turnover trends. The goal is to provide HR leaders with actionable insights to improve talent retention and organizational culture.
